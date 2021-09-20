@@ -1,5 +1,7 @@
 # fabiang/doctrine-migrations-liquibase-zf
 
+UNMAINTAINED. See [fabiang/doctrine-migrations-liquibase-laminas](https://github.com/fabiang/doctrine-migrations-liquibase-laminas) for a Laminas module.
+
 Zend Framework module for creating changesets for Liquibase with Doctrine.
 
 [![Latest Stable Version](https://poser.pugx.org/fabiang/doctrine-migrations-liquibase-zf/version)](https://packagist.org/packages/fabiang/doctrine-migrations-liquibase-zf)
